@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabExam</string>
+    <string name="onboard1H">Find Your Perfect Car </string>
+    <string name="onboard1T"> variety of cars, from economy to luxury, all at your fingertips. </string>
+    <string name="onboard2H">Rent Instantly, Anywhere </string>
+    <string name="onboard2T">Get your car within minutes. Flexible locations, hassle-free reservations. </string>
+    <string name="onboard3H">Drive with Confidence </string>
+    <string name="onboard3T">Get your ride within minutes. Flexible locations, hassle-free reservations. </string>
+
+
+</resources>
